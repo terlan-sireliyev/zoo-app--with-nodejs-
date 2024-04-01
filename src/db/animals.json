@@ -1,0 +1,12 @@
+[
+  {"id": "0","name": "Mixed breed","type": "dog","age": 2,"gender": "male"},
+  {"id": "1","name": "Purebred","type": "dog","age": 4,"gender": "female"},
+  {"id": "2","name": "Working","type": "dog","age": 3,"gender": "male"},
+  {"id": "3","name": "Affenchon","type": "dog","age": 5,"gender": "female"},
+  {"id": "4","name": "Affenshire","type": "dog","age": 8, "gender": "male"},
+  {"id": "5","name": "Maine Coon","type": "cat","age": 10,"gender": "male"},
+  {"id": "6","name": "Siamese","type": "cat","age": 6,"gender": "female" },
+  {"id": "7","name": "British Shorthair","type": "cat","age": 11,"gender": "male"},
+  {"id": "8","name": "Bengal","type": "cat","age": 9,"gender": "female"
+  }
+]
